@@ -42,7 +42,7 @@ class Toasty extends PureComponent {
 
     position: 'bottom',
     offsetX: 0,
-    offsetY: 0,
+    offsetY: 70,
   };
 
   static Duration = {
